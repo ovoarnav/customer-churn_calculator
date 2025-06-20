@@ -1,12 +1,12 @@
 # customer-churn_calculator
 
-# 📉 Telco Customer Churn Prediction
+# Telco Customer Churn Prediction
 
 This repository contains a full end-to-end data science project analyzing customer churn for a telecommunications company. Using real-world data, we built a machine learning model that predicts which customers are likely to cancel their service — a key insight that can help businesses reduce churn and protect recurring revenue.
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 **Churn** — when a customer leaves a service — is one of the most important metrics for subscription-based businesses. This project uses a dataset from a Telco provider to model churn risk based on customer demographics, billing data, and service usage.
 
@@ -17,7 +17,7 @@ This repository contains a full end-to-end data science project analyzing custom
 
 ---
 
-## 📁 Files in this Repository
+## Files in this Repository
 
 | File | Description |
 |------|-------------|
@@ -29,7 +29,7 @@ This repository contains a full end-to-end data science project analyzing custom
 
 ---
 
-## 📊 Key Techniques Used
+## Key Techniques Used
 
 - 🔹 **Data Cleaning**: Removed noisy or inconsistent records
 - 🔹 **Statistical Testing**: Used t-tests to select significant features (p < 0.05)
@@ -39,7 +39,7 @@ This repository contains a full end-to-end data science project analyzing custom
 
 ---
 
-## 🧠 Results
+## Results
 
 - **Top Predictors**: Tenure, MonthlyCharges, Contract type, and Security services
 - **Best Model**: Random Forest with ROC AUC of **0.83**
@@ -47,7 +47,7 @@ This repository contains a full end-to-end data science project analyzing custom
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3.9+
 - pandas, numpy, seaborn, matplotlib
@@ -56,7 +56,7 @@ This repository contains a full end-to-end data science project analyzing custom
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 - Deploy model as an API or live dashboard
 - Collect time-series service usage data
