@@ -1,7 +1,5 @@
 # customer-churn_calculator
 
-# Telco Customer Churn Prediction
-
 This repository contains a full end-to-end data science project analyzing customer churn for a telecommunications company. Using real-world data, we built a machine learning model that predicts which customers are likely to cancel their service — a key insight that can help businesses reduce churn and protect recurring revenue.
 
 ---
