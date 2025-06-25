@@ -29,11 +29,11 @@ This repository contains a full end-to-end data science project analyzing custom
 
 ## Key Techniques Used
 
-- 🔹 **Data Cleaning**: Removed noisy or inconsistent records
-- 🔹 **Statistical Testing**: Used t-tests to select significant features (p < 0.05)
-- 🔹 **Feature Engineering**: Dropped multicollinear features using VIF
-- 🔹 **Modeling**: Compared Logistic Regression, Random Forest, and SVC
-- 🔹 **Evaluation**: ROC AUC, precision/recall, confusion matrix (percent-based)
+- **Data Cleaning**: Removed noisy or inconsistent records
+- **Statistical Testing**: Used t-tests to select significant features (p < 0.05)
+- **Feature Engineering**: Dropped multicollinear features using VIF
+- **Modeling**: Compared Logistic Regression, Random Forest, and SVC
+- **Evaluation**: ROC AUC, precision/recall, confusion matrix (percent-based)
 
 ---
 
